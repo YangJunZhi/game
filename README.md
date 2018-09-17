@@ -1,3 +1,3 @@
-# hello_world
+# my_game
 my first repositry
 i love python
